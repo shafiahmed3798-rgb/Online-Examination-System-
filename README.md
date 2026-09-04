@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240143
+# Name:SHAFI AHMED M S
+# Date:05.09.2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="719" height="670" alt="image" src="https://github.com/user-attachments/assets/bbbf1aa2-8673-4969-a873-2e006a149822" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="666" height="436" alt="image" src="https://github.com/user-attachments/assets/53dc60e9-a600-4fb9-b9a1-036a2aa108f6" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="722" height="447" alt="image" src="https://github.com/user-attachments/assets/9c16e8a3-9510-4654-b857-678b21f20101" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="778" height="445" alt="image" src="https://github.com/user-attachments/assets/4aec319a-862f-4c6e-ade2-7b89ef59f513" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="236" height="624" alt="image" src="https://github.com/user-attachments/assets/68b20a14-2133-4bbe-9294-225c9a45c1d8" />
 
 
 
@@ -118,6 +123,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="750" height="599" alt="image" src="https://github.com/user-attachments/assets/0446b32e-9f58-40f2-bf34-e9ab2e65272f" />
 
 
 
